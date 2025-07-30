@@ -37,9 +37,9 @@ Dataset ini berasal dari review marketplace Indonesia (data dummy). Disimpan di 
 - **Text Summarization**: menggunakan `facebook/bart-large-cnn` untuk merangkum review panjang
 
 ## 🔗 Links
-- [Google Colab Notebook](https://colab.research.google.com/drive/your-colab-link-here)
-- [Dataset Folder](./data/review_dataset.csv)
-- [Presentation Slides](./slides/presentasi_capstone.pdf)
+- [Google Colab Notebook](https://colab.research.google.com/drive/1PQaclrf48bjn42cWDYjiyI5iQd10n8Lf?usp=sharing)
+- [Dataset Folder](https://github.com/rhiosutoyo/PRDECT-ID-Indonesian-Product-Reviews-Dataset/blob/main/Dataset/PRDECT-ID%20Dataset.csv)
+- [Presentation Slides](https://www.canva.com/design/DAGuoFqkj8A/lFXpWX051w0awuHcYhTuxw/edit?utm_content=DAGuoFqkj8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
